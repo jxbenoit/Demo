@@ -1,2 +1,0 @@
-# Demo
-A demo repo
